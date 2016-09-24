@@ -28,7 +28,7 @@
 - Model network as cache
 - Compositions are associative 
 	- `((c1 comp c2) comp c3) $eq (c1 comp (c2 comp c3))`
-- Caches are monoids
+- Caches are *monoids*
 	- Speaker says associative + identity = monoid
 	- Zero value?
 ## Transforming Things
