@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 - Speaker wrote "Fable", which compiles F# to JS
 - Other f# => js compiler first compiles to .net binary (?) and then goes through other steps
 - Fable is straight from f# to JS
@@ -11,7 +11,7 @@
 	-ts2fable
 	- not perfect, sometimes need to manually edit after generating bindings
 
-#Other
+# Other
 - Tomas Petricek
 	- http://tomasp.net/
 	- "The Gamma Project": http://thegamma.net/
